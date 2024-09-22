@@ -165,11 +165,11 @@ else:
   print("Both policies have their merits.")
   ```
 ## OUTPUT:
-###First policy:
+### First policy:
 ![image](https://github.com/user-attachments/assets/476b448e-656e-47ff-8b2a-ffa6cb99f919)
-###Second Policy:
+### Second Policy:
 ![image](https://github.com/user-attachments/assets/5f2eb13d-0980-458a-90a8-d6f5223a6acf)
-###Best Policy:
+### Best Policy:
 ![image](https://github.com/user-attachments/assets/4dcf4662-9dae-42aa-b71a-f1a37ba69a24)
 
 
